@@ -46,7 +46,7 @@ outstanding 96.69%.
 <img width="466" height="301" alt="Screenshot 2026-06-22 193809" src="https://github.com/user-attachments/assets/48f73093-725b-4fc6-a199-32a033987bc1" />
 
 
-The above picture shows the comparision of the four models using scatter plot.
+The above picture shows the comparision of the four models using Line Plot.
 
 
 Brain tumors - whether benign or malignant - present serious health concerns and 
