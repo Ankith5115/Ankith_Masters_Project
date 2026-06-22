@@ -415,5 +415,9 @@ for i, acc in enumerate(accuracies):
 plt.show()
 
 
+
+<img width="466" height="301" alt="Screenshot 2026-06-22 193809" src="https://github.com/user-attachments/assets/48f73093-725b-4fc6-a199-32a033987bc1" />
+
+
 #====================================================================== END OF CODE =============================================================================
 
